@@ -89,26 +89,6 @@ print(y.shape)
 
 ```
 
-## Single cell RNA sequencing Result
-
-<p align="center">
-  <img src="images/single cell cell type.jpg" width="48%" />
-</p>
-
-<p align="center">
-  <em>The t-SNE of gene expression of cells from the PBMC data (A) and the Pancreas Dataset (B).</em>
-</p>
-
-
-## spatial transcriptomics Result
-
-<p align="center">
-  <img src="images/VBA-ICLR_1_00.png" width="48%" />
-</p>
-<p align="center">
-  <em>Clustering performance of our proposed VBA-ST.</em>
-</p>
-
 
 ## Citation
 
