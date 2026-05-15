@@ -2,6 +2,7 @@
 
 Shenglei Fang, Xianfang Sun, You Zhou
 
+
 This is code for paper "VBA: Vector Bundle Attention for Intrinsically Geometric Representation" in ICML 2026.
 
 ## Abstract
